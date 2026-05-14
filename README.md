@@ -1,4 +1,4 @@
-<p align="center"> <img width="900" src="images/marketing-dashboard.png"> </p>
+<p align="center"> <img width="900" src="images/marketing.png"> </p>
 📢 Marketing Campaign Performance Dashboard
 📊 Overview
 

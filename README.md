@@ -15,8 +15,7 @@ The dashboard helps marketers understand which campaigns and channels generate t
 - Analyze campaign performance across marketing channels  
 - Compare ROI and conversion rates by audience segment  
 - Identify cost-efficient acquisition channels  
-- Evaluate campaign effectiveness across demographics  
-- Optimize marketing budget allocation  
+- Evaluate campaign effectiveness across demographics   
 
 ---
 
@@ -32,9 +31,7 @@ The dashboard helps marketers understand which campaigns and channels generate t
 - Google Ads achieved the best overall performance with high conversion rates and lower acquisition costs.
 - Social Media and Instagram campaigns showed lower ROI despite higher spending.
 - Women aged 35–44 recorded the highest average conversion rate among all audience groups.
-- Tech Enthusiasts and Outdoor Adventurers generated stronger ROI compared to other customer segments.
-- Influencer campaigns maintained stable ROI performance with moderate acquisition costs.
-- Some high-cost campaigns delivered below-average conversion rates, indicating inefficient budget allocation.
+- Email campaigns delivered the highest conversion efficiency with relatively lower acquisition costs compared to other channels.
 
 ---
 
@@ -52,15 +49,6 @@ The dashboard helps marketers understand which campaigns and channels generate t
 - Data Visualization  
 - Marketing Analytics  
 - KPI Tracking  
-
----
-
-## 📈 Dashboard Features
-- Interactive filters for Month, Language, and Location  
-- ROI analysis by customer segment  
-- Conversion Rate vs Acquisition Cost comparison  
-- Audience-based campaign performance analysis  
-- Campaign ROI ranking visualization  
 
 ---
 

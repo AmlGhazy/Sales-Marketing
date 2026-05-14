@@ -1,11 +1,12 @@
 <p align="center"> <img width="900" src="images/marketing.png"> </p>
 📢 Marketing Campaign Performance Dashboard
+---
 📊 Overview
 
 This project analyzes marketing campaign performance using Tableau by building an interactive dashboard that tracks campaign efficiency, acquisition cost, conversion rate, and ROI across multiple channels and audience segments.
 
 The dashboard helps marketers understand which campaigns and channels generate the highest returns while minimizing acquisition costs.
-
+---
 🎯 Objective
 Analyze campaign performance across marketing channels
 Compare ROI and conversion rates by audience segment
